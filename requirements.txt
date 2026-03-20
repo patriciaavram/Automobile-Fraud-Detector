@@ -1,0 +1,10 @@
+ipykernel
+pandas
+matplotlib
+sdv
+ctgan
+sweetviz
+numpy
+seaborn
+scikit-learn
+scipy
